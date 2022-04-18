@@ -85,7 +85,7 @@
       </Properties>
       <AccessibilityProperties>
         <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Apoya mi trabajo / Support my work"/>
-        <Property name="AccessibleContext.accessibleDescription" type="java.lang.String" value="https://ko-fi.com/jpgsoluciones"/>
+        <Property name="AccessibleContext.accessibleDescription" type="java.lang.String" value="https://ko-fi.com/juanpgarciac"/>
       </AccessibilityProperties>
       <Events>
         <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="navURL"/>

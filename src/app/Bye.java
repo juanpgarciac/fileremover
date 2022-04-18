@@ -132,7 +132,7 @@ public class Bye extends javax.swing.JDialog {
         );
 
         lb_donate.getAccessibleContext().setAccessibleName("Apoya mi trabajo / Support my work");
-        lb_donate.getAccessibleContext().setAccessibleDescription("https://ko-fi.com/jpgsoluciones");
+        lb_donate.getAccessibleContext().setAccessibleDescription("https://ko-fi.com/juanpgarciac");
         jLabel8.getAccessibleContext().setAccessibleName("https://jpgsoluciones.com");
         jLabel8.getAccessibleContext().setAccessibleDescription("https://jpgsoluciones.com");
 

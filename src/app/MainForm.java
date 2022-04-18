@@ -290,7 +290,7 @@ public class MainForm extends javax.swing.JFrame {
         );
 
         lb_donate.getAccessibleContext().setAccessibleName("Apoya mi trabajo / Support my work");
-        lb_donate.getAccessibleContext().setAccessibleDescription("https://ko-fi.com/jpgsoluciones");
+        lb_donate.getAccessibleContext().setAccessibleDescription("https://ko-fi.com/juanpgarciac");
         banner.getAccessibleContext().setAccessibleName("https://jpgsoluciones.com");
         banner.getAccessibleContext().setAccessibleDescription("https://jpgsoluciones.com");
 
